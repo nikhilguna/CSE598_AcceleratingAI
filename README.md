@@ -1,1 +1,1 @@
-# CSE598---AcceleratingAI
+# CSE598_AcceleratingAI
